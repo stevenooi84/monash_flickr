@@ -1,0 +1,16 @@
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.login .title {
+  padding: 30px 0;
+}
+
+.login button {
+  padding: 20px 0;
+}
+
+.login .footer {
+  padding-top: 10px;
+}
